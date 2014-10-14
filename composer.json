@@ -18,6 +18,7 @@
     "require": {
         "yiisoft/yii2": "*",
         "bower-asset/bootstrap-tagsinput": ">=0.4.2"
+        "bower-asset/typeahead.js": "dev-master"
     },
     "autoload": {
         "psr-4": {
