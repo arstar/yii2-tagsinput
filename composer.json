@@ -1,5 +1,5 @@
 {
-    "name": "yiidoc/yii2-tagsinput",
+    "name": "arstar/yii2-tagsinput",
     "description": "The Gii extension for the Yii framework",
     "keywords": ["yii", "gii", "code generator"],
     "type": "yii2-extension",
