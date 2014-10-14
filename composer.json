@@ -13,11 +13,16 @@
             "name": "Nghia Nguyen",
             "email": "yiidevelop@gmail.com",
             "homepage": "http://yiidev.com"
+        },
+        {
+            "name": "A. de Jong",
+            "email": "arie.dejong@finfiles.nl",
+            "homepage": "http://www.finfiles.nl"
         }
     ],
     "require": {
         "yiisoft/yii2": "*",
-        "bower-asset/bootstrap-tagsinput": ">=0.4.2"
+        "bower-asset/bootstrap-tagsinput": ">=0.4.2",
         "bower-asset/typeahead.js": "dev-master"
     },
     "autoload": {
