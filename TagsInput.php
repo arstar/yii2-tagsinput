@@ -34,6 +34,7 @@ class TagsInput extends InputWidget
             }
         }
         TagsInputAsset::register($this->getView());
+        TypeaheadAsset::register($this->getView());
         $this->registerScript();
         $this->registerEvent();
     }
